@@ -496,11 +496,8 @@ void hitungRataRata(int arr[], int n) {
 ```
 ### Output Unguided 3 :
 
-##### Output 1
-![Screenshot Output Unguided 3_1](https://github.com/DhimazHafizh/2311102151_Muhammad-Dhimas-Hafizh-Fathurrahman/blob/main/Pertemuan2_Modul2/Output-Unguided3-1.png)
-
-##### Output 2
-![Screenshot Output Unguided 3_2](https://github.com/DhimazHafizh/2311102151_Muhammad-Dhimas-Hafizh-Fathurrahman/blob/main/Pertemuan2_Modul2/Output-Unguided3-2.png)
+##### Output 
+![Screenshot Output Unguided 3_2](https://github.com/andistafirza-droid/Laprak-Strukdat-Modul2/blob/main/04-10-2026/Screenshoot/Output-Unguided-Three.png)
 
 Program ini menyimpan data `arrA` sebagai *array* satu dimensi berisi 10 elemen, lalu menyediakan menu berbentuk `switch-case` yang terus muncul berulang memakai `do...while` sampai user memilih keluar (pilihan 5). Setiap pilihan menu akan memanggil fungsi atau prosedur yang berbeda.
 
