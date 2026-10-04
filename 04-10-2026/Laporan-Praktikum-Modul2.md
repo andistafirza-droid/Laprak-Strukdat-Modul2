@@ -333,11 +333,8 @@ int main() {
 ```
 ### Output Unguided 1 :
 
-##### Output 1
-![Screenshot Output Unguided 1_1](https://github.com/DhimazHafizh/2311102151_Muhammad-Dhimas-Hafizh-Fathurrahman/blob/main/Pertemuan2_Modul2/Output-Unguided1-1.png)
-
 ##### Output 2
-![Screenshot Output Unguided 1_2](https://github.com/DhimazHafizh/2311102151_Muhammad-Dhimas-Hafizh-Fathurrahman/blob/main/Pertemuan2_Modul2/Output-Unguided1-2.png)
+![Screenshot Output Unguided 1_2](https://github.com/andistafirza-droid/Laprak-Strukdat-Modul2/blob/main/04-10-2026/Screenshoot/Output-Unguided-One.png)
 
 Program ini memakai dua *array* dua dimensi berukuran 3x3, yaitu `matA` dan `matB`, yang diisi lewat perulangan `for` bersarang. Untuk penjumlahan dan pengurangan, setiap elemen `matA[i][j]` dan `matB[i][j]` yang posisinya sama langsung dijumlahkan atau dikurangkan, lalu disimpan ke `hasilTambah` dan `hasilKurang`.
 
