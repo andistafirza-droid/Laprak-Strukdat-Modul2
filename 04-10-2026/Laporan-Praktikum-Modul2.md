@@ -333,7 +333,7 @@ int main() {
 ```
 ### Output Unguided 1 :
 
-##### Output 2
+##### Output 
 ![Screenshot Output Unguided 1_2](https://github.com/andistafirza-droid/Laprak-Strukdat-Modul2/blob/main/04-10-2026/Screenshoot/Output-Unguided-One.png)
 
 Program ini memakai dua *array* dua dimensi berukuran 3x3, yaitu `matA` dan `matB`, yang diisi lewat perulangan `for` bersarang. Untuk penjumlahan dan pengurangan, setiap elemen `matA[i][j]` dan `matB[i][j]` yang posisinya sama langsung dijumlahkan atau dikurangkan, lalu disimpan ke `hasilTambah` dan `hasilKurang`.
@@ -391,11 +391,8 @@ void tukarReferensi(int &x, int &y, int &z) {
 ```
 ### Output Unguided 2 :
 
-##### Output 1
-![Screenshot Output Unguided 2_1](https://github.com/DhimazHafizh/2311102151_Muhammad-Dhimas-Hafizh-Fathurrahman/blob/main/Pertemuan2_Modul2/Output-Unguided2-1.png)
-
-##### Output 2
-![Screenshot Output Unguided 2_2](https://github.com/DhimazHafizh/2311102151_Muhammad-Dhimas-Hafizh-Fathurrahman/blob/main/Pertemuan2_Modul2/Output-Unguided2-2.png)
+##### Output 
+![Screenshot Output Unguided 2_2](https://github.com/andistafirza-droid/Laprak-Strukdat-Modul2/blob/main/04-10-2026/Screenshoot/Output-Unguided-Two.png)
 
 Program ini membuat dua fungsi untuk menukar nilai tiga variabel, satu memakai *pointer* dan satu lagi memakai *reference*, sesuai dengan materi *guided* sebelumnya. Pada fungsi `tukarPointer`, parameter yang dikirim berupa alamat variabel (`&a`, `&b`, `&c`), sehingga di dalam fungsi harus memakai tanda `*` untuk mengakses nilai yang ditunjuk oleh *pointer* tersebut.
 
