@@ -1,0 +1,1 @@
+# Laprak-Strukdat-Modul2
